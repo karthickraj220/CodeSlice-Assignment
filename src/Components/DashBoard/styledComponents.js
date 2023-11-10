@@ -6,7 +6,7 @@ export const DashBoardCard = styled.button`
     flex-direction: column;
     height: 170px;
     width: 255px;
-    border:solid;
+    border:none;
     margin-top: 16px;
     background-color: ${(props) => props.bgColor};
     border-radius: 4px;
