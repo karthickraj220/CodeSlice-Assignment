@@ -1,3 +1,14 @@
+
+Login Credentials for the WebApplication 
+Email: karthimadesh@gmail.com
+Password: karthi@2023
+
+Login details as been provided as a json file in path of "src/Jsondata/credentials.json"
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
