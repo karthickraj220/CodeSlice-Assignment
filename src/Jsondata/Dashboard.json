@@ -1,0 +1,6 @@
+{"Dashboard":[  
+    {"name":"Students", "value":"243","bgcolor":"#F0F9FF","icon":"https://res.cloudinary.com/ddsschd82/image/upload/v1699531774/graduation-cap_1_eertu2.png"},  
+    {"name":"Course", "value":"13","bgcolor":"#FEF6FB","icon":"https://res.cloudinary.com/ddsschd82/image/upload/v1699531774/Vector_qcpmjb.png"},  
+    {"name":"Payments", "value":"INR 556,000","bgcolor":"#FEFBEC","icon":"https://res.cloudinary.com/ddsschd82/image/upload/v1699531774/Vector_2_ah0s8d.png"},
+    {"name":"Users", "value":"3","bgcolor":"#FEAF00","icon":"https://res.cloudinary.com/ddsschd82/image/upload/v1699531774/Vector_1_yjc4ve.png"}   
+]} 

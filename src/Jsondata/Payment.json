@@ -1,0 +1,6 @@
+{"Payment":[  
+    {"id":"1","name":"Karthi", "payment_schedule":"First","bill_number":"00012223","amount_paid":"INR 35,000","balance_amount":"08-Dec, 2021","date":"08-Dec, 2021"},
+    {"id":"2","name":"Karthi", "payment_schedule":"First","bill_number":"00012223","amount_paid":"INR 35,000","balance_amount":"08-Dec, 2021","date":"08-Dec, 2021"},
+    {"id":"3","name":"Karthi", "payment_schedule":"First","bill_number":"00012223","amount_paid":"INR 35,000","balance_amount":"08-Dec, 2021","date":"08-Dec, 2021"},
+    {"id":"4","name":"Karthi", "payment_schedule":"First","bill_number":"00012223","amount_paid":"INR 35,000","balance_amount":"08-Dec, 2021","date":"08-Dec, 2021"}  
+]}

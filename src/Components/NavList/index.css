@@ -1,0 +1,27 @@
+.nav-item{
+    display: flex;
+    flex-direction: row;
+    height: 46px;
+    width: 196px;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 13px;
+    border: solid;
+    border-radius: 3px;
+}
+.icon-style{
+    height:17px;
+    width: 17px;
+    margin-left: 43px;
+}
+.item-text{
+    font-size: 14px;
+    font-weight: 500;
+    color: #000000;
+    margin-left: 13px;
+    text-decoration: none;
+}
+.navlist-item{
+    border: solid;
+    background-color: transparent;
+}
